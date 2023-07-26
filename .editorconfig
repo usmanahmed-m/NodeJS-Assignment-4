@@ -1,1 +1,9 @@
-# I don't know what rules should i define here. Eslint has done everything
+root = true
+
+[**.js]
+indent_style = tab
+indent_size = 2
+charset = utf-8
+end_of_line = crlf
+insert_final_newline = true
+
